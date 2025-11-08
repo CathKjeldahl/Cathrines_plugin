@@ -31,7 +31,6 @@ Shortcoden er defineret i **index.php** og registreres med funktionen `add_short
 ### Shortcode til at sætte i WordPress
 ```plaintext
 [bellis_popup]
-
 ```
 
 
