@@ -5,6 +5,8 @@
 
 ![Cathrines plugin](/img/cathrines_plugin.png "billede af Cathrines plugin")
 
+**Plugin URI**:
+https://portfolie.kjeldahldesign.com/plugin-side/$0
 ## Formålet med plugin’et
 
 
