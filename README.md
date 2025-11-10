@@ -49,16 +49,14 @@ Shortcoden er defineret i **index.php** og registreres med funktionen `add_short
 
 ```
 
-## Validering
+## Validering af CSS
 Jeg har udført valideringen ved hjælp af W3C’s Jigsaw Validator (https://jigsaw.w3.org/) 
 Resultatet af valideringen fremgår på nedenstående screenshot.
 
 ![plugin validering ](/img/validering.png "billede af Cathrines validering af plugin")
 
-Jeg har valdieret min JavaScript via .
-
-![plugin validering ](/img/validering.png "billede af Cathrines validering af plugin")
-
+## Validering af Javascript
+Jeg har valideret mit JavaScript via konsollen i Google Chrome. Det betyder, at jeg har testet koden direkte i browserens udviklerværktøjer for at sikre, at der ikke opstår fejl eller advarsler, når scriptet kører. Valideringen bekræfter, at JavaScript-koden fungerer som forventet uden syntaksfejl, og at interaktionerne på siden udføres korrekt.
 
 
 ## Brug af AI
