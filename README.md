@@ -55,6 +55,12 @@ Resultatet af valideringen fremgår på nedenstående screenshot.
 
 ![plugin validering ](/img/validering.png "billede af Cathrines validering af plugin")
 
+Jeg har valdieret min JavaScript via .
+
+![plugin validering ](/img/validering.png "billede af Cathrines validering af plugin")
+
+
+
 ## Brug af AI
 Jeg har gjordt brug afChatGPT til at hjælpe med at skabe den pulserende effekt på mit billede i mit plugin. Jeg beskrev mit ønske i en promten: *"Giv mig et eksempel på hvordan jeg kan skabe en pulserende effekt på en png i css"*. Derefter ændrede jeg blandt andet hastigheden så den passede helt perfekt til min side
 

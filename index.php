@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name: cathrine's plugin
- * Plugin URI: http://localhost
+ * Plugin URI: https://portfolie.kjeldahldesign.com
  * Description: Simpelt plugin med animeret illustration og CTA-knap.
  * Version: 1.2.2
  * Author: Cathrine Kjeldahl Jensen
- * Author URI: http://localhost
+ * Author URI: https://portfolie.kjeldahldesign.com
  * License: GPL2
  */
 
@@ -34,7 +34,7 @@ function bellis_popup_box() {
     $content .= '      <img src="' . plugin_dir_url(__FILE__) . 'img/hand.png" alt="Bellis billede" class="bellis-pulse">';
     $content .= '      <p>Fællesskab starter med et hej og en kop kaffe. Hos Bellis mødes mennesker, idéer og grin i øjenhøjde. Klik dig ind, og mærk stemningen, hvor forbindelser opstår.</p>';
     $content .= '      <div class="button-holder">';
-    $content .= '          <a https://storyscaping.shstudio.dk/elementor-615/home/" target="_blank" class="bellis-button-link"> <button id="bellis-button">Oplev Fællesskabet</button> </a>';
+    $content .= '          <a href="https://storyscaping.shstudio.dk/elementor-615/home/" target="_blank" class="bellis-button-link"> <button id="bellis-button">Oplev Fællesskabet</button> </a>';
     $content .= '      </div>';
     $content .= '  </div>';
     $content .= '</div>';
